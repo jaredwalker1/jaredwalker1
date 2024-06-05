@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 HomeLab Projects:</h2>
 
-- <b>Hands-on experience with the setup of four VMs, configuring their OS and Networks, Security measures with Splunk Server for log analysis, and Sysmon for endpoint monitoring. Crowbar for simulating brute force attacks on Windows Server active directory users, and analyzing the attack with Splunk. Atomic Red Team (ART) and MITRE ATT&CK for testing. </b>
+- <b>Hands-on experience with the setup of four VMs and more. </b>
   - [Active Directory Splunk Lab](https://github.com/jaredwalker1/Active-Directory-Project)
 
 <h2> 🤳 Connect with me:</h2>
