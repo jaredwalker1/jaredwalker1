@@ -1,4 +1,6 @@
-<h1>Hi, I'm Jared! <br/><a href="https://www.linkedin.com/in/jaredwalker1/">Aspiring IT/Cybersecurity Professional</a> </h1>
+<h1>Hi, my name is Jared! <br/><a href="https://www.linkedin.com/in/jaredwalker1/">Aspiring IT/Cybersecurity Professional</a> </h1>
+
+### I am Currently:
 
 <h2>👨‍💻 HomeLab Projects:</h2>
 
