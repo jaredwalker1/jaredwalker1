@@ -3,6 +3,7 @@
 ### I am Currently: 
 ### - Applying for entry-level opportunities. 
 ### - Completing hands-on labs for practical experience. 
+</br>
 
 <h2>👨‍💻 HomeLab Projects:</h2>
 
