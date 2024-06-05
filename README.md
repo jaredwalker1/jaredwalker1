@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 HomeLab Projects:</h2>
 
-- <b>Active Directory Project w/ Splunk, Sysmon, adn Atomic Red Team</b>
+- <b>Active Directory Project w/ Splunk, Sysmon, and Atomic Red Team</b>
   - [Praciting DS & Algos in Python](https://github.com/jaredwalker1/Active-Directory-Project
 
 <h2> 🤳 Connect with me:</h2>
