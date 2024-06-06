@@ -10,6 +10,20 @@
 - <b>Hands-on experience with the setup of four VMs and more. </b>
   - [Active Directory Splunk Lab](https://github.com/jaredwalker1/Active-Directory-Project)
 
+
+
+## Certifications
+### CompTIA Pentest+
+### CompTIA CySA+
+### CompTIA Security+
+### CompTIA Network+
+### CompTIA A+
+### Associate of ISC2 toward SSCP
+### Linux Essentials
+### ITIL 4 Foundation
+
+
+
 <h2> 🤳 Connect with me:</h2>
 
 
