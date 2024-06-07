@@ -27,7 +27,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JaredWalker | LinkedIn" width="22px" src="[https://imgur.com/a/ACtgpxA](https://i.imgur.com/juVYkbg.png)" />][linkedin]
+[<img align="left" alt="JaredWalker | LinkedIn" width="22px" src="https://i.imgur.com/juVYkbg.png" />][linkedin]
 
 
 
