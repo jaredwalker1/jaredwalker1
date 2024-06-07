@@ -27,7 +27,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.stickpng.com/img/icons-logos-emojis/social-media-icons/linkedin-icon-square" />][linkedin]
+[<img align="left" alt="JaredWalker | LinkedIn" width="22px" src="https://www.stickpng.com/img/icons-logos-emojis/social-media-icons/linkedin-icon-square" />][linkedin]
 
 
 
