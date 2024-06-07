@@ -25,10 +25,11 @@
 </br>
 
 <h2> 🤳 Connect with me: [<img align="left" alt="JaredWalker | LinkedIn" width="22px" src="https://i.imgur.com/juVYkbg.png" />][linkedin]
-</h2> 
+
 
 
 
 
 
 [linkedin]: https://linkedin.com/in/jaredwalker1
+</h2> 
