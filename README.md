@@ -15,7 +15,7 @@
 
 </br>
 
-## Certifications
+## 📎 Certifications
 ### - CompTIA Pentest+
 ### - CompTIA CySA+
 ### - CompTIA Security+
