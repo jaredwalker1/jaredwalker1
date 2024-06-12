@@ -14,15 +14,16 @@
 
 </br>
 
-## 📎 Certifications
-### - CompTIA Pentest+
-### - CompTIA CySA+
-### - CompTIA Security+
-### - CompTIA Network+
-### - CompTIA A+
-### - Associate of ISC2 toward SSCP
-### - Linux Essentials
-### - ITIL 4 Foundation
+<h2> 📎 Certifications </h2>
+
+- <b> CompTIA Pentest+ </b>
+- <b> CompTIA CySA+ </b>
+- <b> CompTIA Security+ </b>
+- <b> CompTIA Network+ </b>
+- <b> CompTIA A+ </b>
+- <b> Associate of ISC2 toward SSCP </b>
+- <b> Linux Essentials </b>
+- <b> ITIL 4 Foundation </b>
 
 </br>
 
