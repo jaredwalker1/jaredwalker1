@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jared! 👋 <br/><a href="https://www.linkedin.com/in/jaredwalker1/">Aspiring IT/Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Jared! 👋 <br/><a href="https://www.linkedin.com/in/jaredwalker1/">Aspiring Cybersecurity Professional</a> </h1>
 
 <b> I am Currently: </b> 
 - <b> Applying for entry-level opportunities. </b>
