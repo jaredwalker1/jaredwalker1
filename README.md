@@ -2,7 +2,7 @@
 
 <b> I am Currently: </b> 
 - <b> Applying for entry-level opportunities. </b>
-- <b> Completing hands-on labs for practical experience. </b>
+- <b> Completing labs for hands-on technical experience. </b>
 
 <h2>👨‍💻 HomeLab Projects:</h2>
 
