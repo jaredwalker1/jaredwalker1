@@ -1,9 +1,8 @@
 <h1>Hi, I'm Jared! 👋 <br/><a href="https://www.linkedin.com/in/jaredwalker1/">Aspiring IT/Cybersecurity Professional</a> </h1>
 
-### I am Currently: 
-### - Applying for entry-level opportunities. 
-### - Completing hands-on labs for practical experience. 
-</br>
+<b> I am Currently: </b> 
+- <b> Applying for entry-level opportunities. </b>
+- <b> Completing hands-on labs for practical experience. </b>
 
 <h2>👨‍💻 HomeLab Projects:</h2>
 
