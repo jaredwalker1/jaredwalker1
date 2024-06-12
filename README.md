@@ -1,4 +1,4 @@
-<h1>Hi, my name is Jared! 👋 <br/><a href="https://www.linkedin.com/in/jaredwalker1/">Aspiring IT/Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Jared! 👋 <br/><a href="https://www.linkedin.com/in/jaredwalker1/">Aspiring IT/Cybersecurity Professional</a> </h1>
 
 ### I am Currently: 
 ### - Applying for entry-level opportunities. 
@@ -6,6 +6,7 @@
 </br>
 
 <h2>👨‍💻 HomeLab Projects:</h2>
+
 - <b>Hands-on experience generating telemetry similar to real-world cyber attacks. </b>
   - [Active Directory Lab w/ Splunk, Sysmon, & Atomic Red Team](https://github.com/jaredwalker1/Active-Directory-Project)
 - <b>Hands-on experience analyzing malware in a sandbox environment. </b>
