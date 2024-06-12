@@ -12,8 +12,6 @@
   - [Malware Analysis Lab](https://github.com/jaredwalker1/Malware-Analysis-Lab)
 
 
-</br>
-
 <h2> 📎 Certifications </h2>
 
 - <b> CompTIA Pentest+ </b>
@@ -25,13 +23,10 @@
 - <b> Linux Essentials </b>
 - <b> ITIL 4 Foundation </b>
 
-</br>
 
 <h2> 🤳 Connect with me: </h2> 
 
-
 [<img align="left" alt="JaredWalker | LinkedIn" width="22px" src="https://i.imgur.com/juVYkbg.png" />][linkedin]
-
 
 [linkedin]: https://linkedin.com/in/jaredwalker1
 
