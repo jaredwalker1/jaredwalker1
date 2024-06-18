@@ -9,7 +9,7 @@
 - <b>Hands-on experience generating telemetry similar to real-world cyber attacks. </b>
   - [Active Directory Lab w/ Splunk, Sysmon, & Atomic Red Team](https://github.com/jaredwalker1/Active-Directory-Project)
 - <b>Hands-on experience detonating & analyzing malware in a sandbox environment. </b>
-  - [Malware Analysis Lab](https://github.com/jaredwalker1/Malware-Analysis-Lab)
+  - [Malware Analysis Lab (Zeus Banking Trojan)](https://github.com/jaredwalker1/Malware-Analysis-Lab)
 
 
 <h2> 📎 Certifications </h2>
