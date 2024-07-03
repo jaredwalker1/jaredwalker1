@@ -10,10 +10,8 @@
   - [Active Directory Lab w/ Splunk, Sysmon, & Atomic Red Team](https://github.com/jaredwalker1/Active-Directory-Project)
 - <b>Hands-on experience detonating & analyzing malware in a sandbox environment. </b>
   - [Malware Analysis Lab (Zeus Banking Trojan)](https://github.com/jaredwalker1/Malware-Analysis-Lab)
-- <b>Hands-on experience detonating & analyzing malware in a sandbox environment. </b>
+- <b>Hands-on experience exploiting the DC1 VulnHub machine through vulnerability scanning, web application exploitation, database enumeration, and privilege escalation to capture multiple flags. </b>
   - [Home Hacking Lab (DC1 VulnHub Machine Exploitation)](https://github.com/jaredwalker1/Homee-Hacking-Lab)
-
-Home Hacking Lab: DC1 VulnHub Machine Exploitation
 
 
 <h2> 📎 Certifications </h2>
