@@ -16,6 +16,8 @@
 
 <h2> 📎 Certifications </h2>
 
+- <b> BTL1 by Security Blue Team </b>
+- <b> TryHackMe SOC Level 1 </b>
 - <b> CompTIA Pentest+ </b>
 - <b> CompTIA CySA+ </b>
 - <b> CompTIA Security+ </b>
