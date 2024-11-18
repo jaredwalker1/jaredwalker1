@@ -1,7 +1,7 @@
 <h1>Hi, I'm Jared! 👋 <br/><a href="https://www.linkedin.com/in/jaredwalker1/">Aspiring Cybersecurity Professional</a> </h1>
 
 <b> I am currently: </b> 
-- <b> Applying for entry-level opportunities. </b>
+- <b> Applying for SOC opportunities. </b>
 - <b> Completing labs for hands-on technical experience. </b>
 
 <h2>👨‍💻 HomeLab Projects:</h2>
